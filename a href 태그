@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1-html</title>
+  <meta charset=utf-8">
+</head>
+<body>
+  <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ol>
+
+<h1>HTML이란 무엇인가</h1>
+기술하기 위하여 사용하는 <strong>명령어의 집합</strong>을 태그(Tag)라고 한다. 태그는 기본적으로 여는 태그와 닫는 태그로 구성되며, 닫는 태그 없이 단독으로 이용하는 태그도 있다. 태그에 주는 다양한 옵션은 모두 여는 태그에 지정하며, 닫는 태그는 태그 효과가 적용되는 범위의 끝을 나타내는 기능만 한다.
+<img src="coding.jpg" width="300">
+<p><p style="margin-top:45px;">HTML 사상 최초로 표준으로 지정되었다. <a href="https://www.w3.org/TR/html52/" target="_blank" title="html specification">HTML</a> 1.0에서 파일 업로드 양식과 프레임, 테이블, 이미지맵, 국제화 기능이 추가된 것으로, 팀 버너스 리와 여러 다른 사람의 노력으로 표준화되었다. 인터넷의 대중화가 시작되면서 이때부터 HTML도 널리 알려지기 시작했다. 하지만 동시에 HTML의 문제점 역시 두드러졌던 시기이다. 95년대 브라우저 전쟁 시기 웹페이지 관리자는 IE를 위한 페이지와 넷스케이프를 위한 페이지를 따로 만들어야 했었다. 그러하여 그것을 보완하기 위해 W3C에서 보완한 것이 HTML 3.2.</p>
+</body>
+</html>
